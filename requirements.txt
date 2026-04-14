@@ -1,0 +1,2 @@
+nbconvert>=7
+beautifulsoup4>=4
