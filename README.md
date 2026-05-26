@@ -1,4 +1,4 @@
-# BioCampus workshop: Template
+# BioCampus workshop: Machine et deep-learning
 
 ## Proposed by Montpellier Ressources Imagerie, 2026
 
